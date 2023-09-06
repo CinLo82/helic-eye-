@@ -1,0 +1,1 @@
+Partimos de una app que esta desarrollada como un Client Side Render(CSR); y el objetivo es convertirla en una app Server Side Render(SSR).
